@@ -55,7 +55,6 @@ At the implied price the deal does not reach a 12% target, and with debt costing
 - **Waterfall.** The preferred return is cumulative and compounded annually; cash flows go first to return of capital plus the 8% preferred return, then to the next tier. The GP's promote is on top of its pro rata share as a co-investor.
 - **Simplification.** One renovation cost ($7,500) and one rent premium ($90) are used for both 1BR and 2BR. The premium already observed on renovated units is the same $90 for both types, so splitting them would not change base-case results.
 - **Timing.** Annual, end-of-year cash flows; Year 6 NOI is used only for the exit value.
-- **Integrity.** `Summary` reports "OK" when the rent roll, opex, cash-flow, debt and waterfall reconciliation checks are all zero.
 
 ## Limitations
 
