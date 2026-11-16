@@ -58,4 +58,4 @@ At the implied price the deal does not reach a 12% target, and with debt costing
 
 ## Limitations
 
-Illustrative inputs only; not calibrated to a real market or property. Annual periods, no refinancing, no taxes or fund-level costs. Results show how the structure behaves, not a forecast.
+Illustrative inputs only; not calibrated to a real market or property. Annual periods, no refinancing, no taxes or sponsor fees. Results show how the structure behaves, not a forecast.
