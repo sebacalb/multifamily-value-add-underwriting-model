@@ -2,7 +2,7 @@
 
 A work sample: a fully linked Excel model that underwrites a **hypothetical** 120-unit value-add apartment acquisition in a Sun Belt market, from rent roll to levered returns, a JV waterfall and Base / Downside / Upside scenarios.
 
-> **This is a hypothetical case.** It does not describe, analyze or reference any specific property, seller, broker or transaction, and it uses no confidential or non-public information. Every input is an illustrative assumption of the author and has not been verified. Not investment advice.
+> **This is a hypothetical case.** It does not describe, analyze or reference any specific property, seller, broker or transaction, and it uses no confidential or non-public information.
 
 ## The case
 
@@ -44,7 +44,7 @@ At the implied price the deal does not reach a 12% target, and with debt costing
 | Rent Roll / Opex Detail | In-place rents by unit type; opex by category |
 | CF Base | 6-year operating projection, renovation program and reserve |
 | Returns | Debt, exit, levered and unlevered cash flows, IRR, multiple, DSCR |
-| Scenarios | Driver table and selector (`Scenarios!B4`: 1 Base, 2 Downside, 3 Upside; leave at 1) with a results table by scenario |
+| Scenarios | Driver table and selector ('Cell B4': 1 Base, 2 Downside, 3 Upside; leave at 1) with a results table by scenario |
 | Sensitivity | Levered IRR and multiple by purchase price and exit cap |
 | Waterfall | LP / GP distributions with preferred return and promote tiers |
 
